@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Nick Coleman</title>
+	<subtitle>Personal blog</subtitle>
+	<link href="file:///home/pi/www/zola/blog/public/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="file:///home/pi/www/zola/blog/public/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-06-18T00:00:00+00:00</updated>
+	<id>file:///home/pi/www/zola/blog/public/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Blog Setup Complete</title>
+		<published>2020-06-18T00:00:00+00:00</published>
+		<updated>2020-06-18T00:00:00+00:00</updated>
+		<link href="file:///home/pi/www/zola/blog/public/posts/blog-setup-completed/" type="text/html"/>
+		<id>file:///home/pi/www/zola/blog/public/posts/blog-setup-completed/</id>
+		<content type="html">&lt;p&gt;The blog setup using &lt;a href=&quot;https:&#x2F;&#x2F;getzola.org&quot;&gt;&lt;em&gt;zola&lt;&#x2F;em&gt;&lt;&#x2F;a&gt; is pretty much complete. The only thing left is a commenting system, but in the meantime, while I&#x27;m sorting that out, readers can get in touch via &lt;a href=&quot;&#x2F;contact&quot;&gt;&lt;em&gt;Contact Me&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;After that there is just some tidying up and aesthetic niceties. I would like to get the &lt;em&gt;About&lt;&#x2F;em&gt; and the &lt;em&gt;Contact Me&lt;&#x2F;em&gt; pages off the front page -- they&#x27;re accessible from the menu bar at the top anyway.  And I still have to decide which theme to set as the default.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>The Second Post</title>
+		<published>2020-06-17T00:00:00+00:00</published>
+		<updated>2020-06-17T00:00:00+00:00</updated>
+		<link href="file:///home/pi/www/zola/blog/public/posts/second-post/" type="text/html"/>
+		<id>file:///home/pi/www/zola/blog/public/posts/second-post/</id>
+		<content type="html">&lt;p&gt;My second post, to test length formatting and the summary.&lt;&#x2F;p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu feugiat sapien. Aenean ligula nunc, laoreet id sem in, interdum bibendum felis. Donec vel dui neque. Praesent ac sem ut justo volutpat rutrum a imperdiet tellus. &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt; Nam lobortis massa non hendrerit hendrerit. Vivamus porttitor dignissim turpis, eget aliquam urna tincidunt non. Aliquam et fringilla turpis. Nullam eros est, eleifend in ornare sed, hendrerit eget est. Aliquam tellus felis, suscipit vitae ex vel, fringilla tempus massa. Nulla facilisi. Pellentesque lobortis consequat lectus. Maecenas ac libero elit.&lt;&#x2F;p&gt;
+&lt;p&gt;Ut luctus dolor ut tortor hendrerit, sed hendrerit augue scelerisque. Suspendisse quis sodales dui, at tempus ante. Nulla at tempor metus. Aliquam vitae rutrum diam. Curabitur iaculis massa dui, quis varius nulla finibus a. Praesent eu blandit justo. Suspendisse pharetra, arcu in rhoncus rutrum, magna magna viverra erat, eget vestibulum enim tellus id dui. Nunc vel dui et arcu posuere maximus. Mauris quam quam, bibendum sed libero nec, tempus hendrerit arcu. Suspendisse sed gravida orci. Fusce tempor arcu ac est pretium porttitor. Aenean consequat risus venenatis sem aliquam, at sollicitudin nulla semper. Aenean bibendum cursus hendrerit. Nulla congue urna nec finibus bibendum. Donec porta tincidunt ligula non ultricies.&lt;&#x2F;p&gt;
+&lt;p&gt;Sed vulputate tristique elit, eget pharetra elit sodales sed. Proin dignissim ipsum lorem, at porta eros malesuada sed. Proin tristique eros eu quam ornare, suscipit luctus mauris lobortis. Phasellus ut placerat enim. Donec egestas faucibus maximus. Nam quis efficitur eros. Cras tincidunt, lacus ac pretium porta, dui dolor varius elit, eget laoreet justo justo vitae metus. Morbi eget nisi ut ex scelerisque lobortis ut in lorem. Vestibulum et lorem quis ipsum feugiat varius. Mauris nec nulla viverra nisi porttitor efficitur. Morbi vel purus eleifend, finibus erat non, placerat ipsum. Mauris et augue vel nisi volutpat aliquam. Curabitur malesuada tortor est, at condimentum neque eleifend in.&lt;&#x2F;p&gt;
+&lt;p&gt;Morbi id ornare lacus. Suspendisse ultrices rutrum posuere. Nullam porttitor libero quis ligula finibus semper. Mauris iaculis magna et nisl tristique, eget maximus ex feugiat. Nam eu felis leo. Quisque ultrices varius purus in molestie. Duis non accumsan ligula. Vivamus dignissim malesuada metus, vel hendrerit tellus viverra id. Curabitur posuere, mauris vitae dignissim dictum, velit mi condimentum lorem, nec varius velit arcu a mi. In dolor sapien, condimentum sed aliquam at, dignissim id purus. Cras lorem leo, vulputate ac ante sed, molestie tempus lectus. Curabitur efficitur libero quam, rhoncus faucibus libero pharetra nec. Curabitur lobortis ullamcorper nisl eu imperdiet. Duis porttitor interdum magna, ac eleifend orci consequat vitae. Aliquam augue felis, faucibus vel blandit sed, maximus non turpis.&lt;&#x2F;p&gt;
+&lt;p&gt;Quisque viverra a eros id auctor. Proin id nibh ut nisl dignissim pellentesque et ac mi. Nullam mattis urna quis consequat bibendum. Donec pretium dui elit, a semper purus tristique et. Mauris euismod nisl eu vehicula facilisis. Maecenas facilisis non massa non scelerisque. Integer malesuada cursus erat eu viverra. Duis ligula mi, eleifend vel justo id, laoreet porttitor ex. Etiam ultricies lacus lorem, sed aliquam nulla blandit in. Maecenas vel facilisis neque, vitae fringilla eros. In justo nibh, pellentesque sed faucibus nec, varius sit amet risus.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>About</title>
+		<published>2020-06-15T00:00:00+00:00</published>
+		<updated>2020-06-15T00:00:00+00:00</updated>
+		<link href="file:///home/pi/www/zola/blog/public/about/" type="text/html"/>
+		<id>file:///home/pi/www/zola/blog/public/about/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Past&lt;&#x2F;em&gt;: astronomy.  8-inch Dobsonian.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Currently&lt;&#x2F;em&gt;: motorcycles.  BMW R1250 GSA.  &lt;em&gt;vroom&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Next&lt;&#x2F;em&gt;: aviation.  Gliders.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Plus&lt;&#x2F;em&gt;: science, unix systems, Python, Bash, C, Lisps, MLs&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Starting Out</title>
+		<published>2020-06-14T00:00:00+00:00</published>
+		<updated>2020-06-14T00:00:00+00:00</updated>
+		<link href="file:///home/pi/www/zola/blog/public/posts/starting-out/" type="text/html"/>
+		<id>file:///home/pi/www/zola/blog/public/posts/starting-out/</id>
+		<content type="html">&lt;p&gt;This is a new blog using the Zola static website generator.  It&#x27;s written in Rust, which I don&#x27;t know, but 
+it seems pretty easy to use without having to know the ins-and-outs of Rust.&lt;&#x2F;p&gt;
+&lt;p&gt;Test highlighting with some code examples:&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h4 id=&quot;bash&quot;&gt;Bash&lt;a class=&quot;zola-anchor&quot; href=&quot;#bash&quot; aria-label=&quot;Anchor link for: bash&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;i &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;&amp;lt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;10&lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;then
+    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;i &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;10
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;fi
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Looks good.  Had to change the markdown from two tabs to eight spaces for &lt;code&gt;i = 10&lt;&#x2F;code&gt; though, 
+otherwise the indentation wasn&#x27;t recognised.
+[later] I changed from using indentation to establish a code block to using three backticks &lt;code&gt;```&lt;&#x2F;code&gt; to mark out the block.
+I now don&#x27;t have to worry about indentation meaning something under markdown instead of 
+being part of the code.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;python&quot;&gt;Python&lt;a class=&quot;zola-anchor&quot; href=&quot;#python&quot; aria-label=&quot;Anchor link for: python&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;pre style=&quot;background-color:#2b303b;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;i = &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;10 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#b48ead;&quot;&gt;if &lt;&#x2F;span&gt;&lt;span style=&quot;color:#c0c5ce;&quot;&gt;i &amp;lt; &lt;&#x2F;span&gt;&lt;span style=&quot;color:#d08770;&quot;&gt;10
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Looks ok.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Contact me</title>
+		<published>2020-06-01T00:00:00+00:00</published>
+		<updated>2020-06-01T00:00:00+00:00</updated>
+		<link href="file:///home/pi/www/zola/blog/public/contact/" type="text/html"/>
+		<id>file:///home/pi/www/zola/blog/public/contact/</id>
+		<content type="html">&lt;!-- modify this form HTML and place wherever you want your form --&gt;
+&lt;form
+  action=&quot;https:&#x2F;&#x2F;formspree.io&#x2F;xdowzqpg&quot;
+  method=&quot;POST&quot;
+&gt;
+  &lt;label align=&quot;right&quot;&gt;
+    Your email: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+    &lt;input type=&quot;text&quot; name=&quot;_replyto&quot; autofocus size=49&gt;
+  &lt;&#x2F;label&gt;&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;
+  &lt;label align=&quot;left&quot;&gt;
+    Your message:&amp;nbsp;
+    &lt;textarea name=&quot;message&quot; cols=50 rows=10&gt;&lt;&#x2F;textarea&gt;
+  &lt;&#x2F;label&gt;
+&lt;br&gt;
+  &lt;label align=&quot;right&quot;&gt;
+  &lt;sub&gt;Uses [*Formspree*](http:&#x2F;&#x2F;formspree.io) email system.&lt;&#x2F;sub&gt;
+  &lt;&#x2F;label&gt;
+  &lt;!-- your other form fields go here --&gt;
+&lt;p&gt;&lt;button type=&quot;submit&quot;&gt;Send&lt;&#x2F;button&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;form&gt;
+</content>
+	</entry>
+</feed>
